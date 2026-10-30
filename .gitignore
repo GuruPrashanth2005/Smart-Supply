@@ -1,0 +1,40 @@
+# Python & Environments
+backend/.env
+backend/venv/
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite3
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.DS_Store
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary helper scripts
+center_header.py
+inspect_lines.py
+update_hero.py
+update_procurement.py
+update_recipes.py
+update_transactions.py
+update_layout.py
+redesign_header.py
+add_profile_dropdown.py
+update_inventory_color.py
+fix_ingest_order.py
+verify_tables.py
